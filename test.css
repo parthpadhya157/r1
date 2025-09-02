@@ -1,0 +1,20 @@
+/* test.css - Basic utility classes */
+
+.bg-primary {
+  background-color: #6366f1; /* indigo-500 */
+}
+.text-white {
+  color: #fff;
+}
+.rounded-lg {
+  border-radius: 0.5rem;
+}
+.p-4 {
+  padding: 1rem;
+}
+.shadow {
+  box-shadow: 0 4px 14px 0 rgba(0,0,0,0.10);
+}
+.text-center {
+  text-align: center;
+}
